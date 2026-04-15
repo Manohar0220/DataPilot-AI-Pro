@@ -1,0 +1,13 @@
+Dataset,Task,Samples,Features,Best Score,Runtime
+Credit-G,Classification,"1,000",20,0.751,11s
+Diabetes,Regression,442,10,0.481,1s
+Adult,Classification,"20,000",14,0.000,2s
+Housing,Regression,"4,209",376,0.577,30s
+Vehicle,Classification,846,18,0.775,17s
+Bike Sharing,Regression,"17,379",12,0.307,1m 17s
+Iris,Classification,150,4,0.952,6s
+Wine Quality,Regression,"6,497",11,0.299,7s
+Heart Disease,Classification,294,13,0.649,9s
+Steel Plates,Classification,"1,941",27,0.635,1m 02s
+Spambase,Classification,"4,601",57,0.930,28s
+Kin8nm,Regression,"20,000",9,0.961,39s
